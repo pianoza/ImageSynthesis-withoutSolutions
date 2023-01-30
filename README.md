@@ -5,4 +5,9 @@ Breast mass segmentation in full-field digital mammograms plays a significant ro
 
 One of the approaches to overcome the data scarcity problem is to generate synthetic images using Generative Adversarial Networks (GANs). In this project, the participants will develop a GAN model to generate synthetic mammogram masses
 
-The three notebooks will walk you through data curation, pre-processing, GAN design and training, synthetic shape generation, and validation.
+The four notebooks will walk you through data curation, pre-processing, GAN design and training, synthetic shape generation, and validation on a downstream task of mass segmentation. The figure below shows the overall design of the project.
+
+![workflow](images/course_workflow.png)
+
+
+
